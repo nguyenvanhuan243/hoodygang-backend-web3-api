@@ -27,6 +27,8 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-
       - name: Run test
         run: pnpm run test
+      
+      - name: Run test:e2e
+        run: pnpm run test:e2e
