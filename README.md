@@ -2,7 +2,6 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
-Demo Login: https://drive.google.com/file/d/19SzM1mh62-1nS6DBw5aVQkrOK1bX19mq/view?usp=sharing
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
@@ -80,6 +79,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
+- Demo Login: https://drive.google.com/file/d/19SzM1mh62-1nS6DBw5aVQkrOK1bX19mq/view?usp=sharing
 
 ## License
 
